@@ -1,4 +1,4 @@
-# 🧩 Y86 Processor Architecture (Spring 2024)
+# 🧩 Y86 Processor Architecture
 
 This project implements a **custom processor architecture** based on the **Y86 ISA**, developed in **Verilog**.
 
